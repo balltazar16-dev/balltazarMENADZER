@@ -4,3 +4,31 @@ __pycache__/
 .env
 reports/
 data/private/
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Virtuelna okruženja
+.venv/
+venv/
+env/
+
+# Tajne i lokalna podešavanja
+.env
+.env.*
+!.env.example
+
+# Privatni podaci i generisani izveštaji
+data/private/
+reports/
+
+# Logovi
+*.log
+
+# Sistemski fajlovi
+.DS_Store
+Thumbs.db
