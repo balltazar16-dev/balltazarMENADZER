@@ -23,3 +23,10 @@
     }
   ]
 }
+balltazarMENADZER/
+├── README.md
+├── .gitignore
+├── data/
+│   └── example.json
+└── src/
+    └── manager.py
