@@ -1,0 +1,25 @@
+{
+  "channel": "BalltazarTV",
+  "period": "DEMO — isti period od 7 dana",
+  "demo": true,
+  "videos": [
+    {
+      "title": "Ne pali svetlo",
+      "style": "dark deep house",
+      "views": 200,
+      "impressions": 8000,
+      "ctr_percent": 2.0,
+      "average_view_seconds": 72,
+      "duration_seconds": 240
+    },
+    {
+      "title": "Trip-hop demo",
+      "style": "trip-hop / alt R&B",
+      "views": 100,
+      "impressions": null,
+      "ctr_percent": null,
+      "average_view_seconds": 90,
+      "duration_seconds": 225
+    }
+  ]
+}
